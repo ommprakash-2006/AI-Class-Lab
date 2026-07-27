@@ -18,4 +18,4 @@ This repository is only for LAB purposes only. (COLLEGE work)
 4. Display the result
 5. Stop
 
-**Python Program :**
+<hr>
