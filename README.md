@@ -75,8 +75,6 @@ g(n) is actual cost so far
 
 h(n) is estimated cost
 
+"**Definition -** A* search is an informed search algorithm that finds the shortest path by combining the actual cost from the start node and the estimated cost to the goal."
 
-**Definition -** A* search is an informed search algorithm that finds the shortest path by combining the actual cost from the start node and the estimated cost to the goal.
-
-
-**Python program:**
+<hr>
