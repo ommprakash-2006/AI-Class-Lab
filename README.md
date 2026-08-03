@@ -5,7 +5,7 @@ This repository is only for LAB purposes only. (COLLEGE work)
 
 <hr>
 
-**1. Write a program to implement BFS**
+### **1. Write a program to implement BFS**
 
 **AIM :** To implement BFS using Python.
 
@@ -21,7 +21,7 @@ This repository is only for LAB purposes only. (COLLEGE work)
 
 <hr>
 
-**2. Write a program to implement DFS**
+### **2. Write a program to implement DFS**
 
 **AIM :** To implement DFS using Python.
 
@@ -37,7 +37,7 @@ This repository is only for LAB purposes only. (COLLEGE work)
 
 <hr>
 
-**3. Hill Climbing Algorithm**
+### **3. Hill Climbing Algorithm**
 
 Hill climbing is the local search algorithm that repeatately moves to the neighbouring state with the highest value until no better neighbour exists.
 
@@ -58,3 +58,25 @@ Hill climbing is the local search algorithm that repeatately moves to the neighb
 9. Stop
 
 <hr>
+
+### **4. A * Algorithm**
+
+It is a path finding algorithm that finds the shortest and the most efficent path from a start node to a goal node by using
+
+g(n) - the actual cost from the start node to the current node
+
+h(n) - the estimated cost from the current node to the goal (heuristic)
+
+It chooses the node with the lowest total cost, calculated as **f(n) = g(n) + h(n)**
+
+f(n) is total estimated cost
+
+g(n) is actual cost so far
+
+h(n) is estimated cost
+
+
+**Definition -** A* search is an informed search algorithm that finds the shortest path by combining the actual cost from the start node and the estimated cost to the goal.
+
+
+**Python program:**
