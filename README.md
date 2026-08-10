@@ -78,3 +78,31 @@ h(n) is estimated cost
 "**Definition -** A* search is an informed search algorithm that finds the shortest path by combining the actual cost from the start node and the estimated cost to the goal."
 
 <hr>
+
+## **5. Min-Max Algorithm**
+
+**AIM:**
+To implement  Min-Max Algorithm using Python.
+
+**Theory:**
+It is a recursive search algorithm that chooses the optimal move for a player by assuming that the opponent will also play optimally. It aims to maximize the player's minimum guaranteed patoff while minimizing the opponent's maximum advantage.<br>
+.....
+
+**How it works:**
+
+MAX player: Tries to choose the move with the highest possible score.<br>
+MIN player: Tries to choose the move with the lowest possible score.<br>
+.....
+
+Example:
+
+In a game Tic-Tac-Toe:<br>
+The AI (MAX) examines all possible moves.<br>
+It assumes the opponent (MIN) always make the best counter-move.<br>
+
+**Definition:**
+
+Min-Max is an AI search algorithm used in 2 player games that finds best move by maximizing the player's minimum gain while assuming the opponent always plays optimally.
+
+<hr>
+
