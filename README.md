@@ -106,3 +106,49 @@ Min-Max is an AI search algorithm used in 2 player games that finds best move by
 
 <hr>
 
+# **7. 8-Queens Problem**
+
+**AIM:** <br>
+To implement 9-queens problem using Python using the backtracking technique and find a valid arrangement of 8 queens on an 8x8 chessboard such that no 2 queens attack each other.
+
+**Problem Statement:** <br>
+The 8 queens problem is the problem of placing 8 queens on an 8x8 chessboard such that no queens can attack each other.<br>
+A queen can attack another queen if they are in same:<br>
+Row, Column, Diagonal
+
+**Theory:** <br>
+Introduction - The 8 queens problem is a famous problem in AI and Computer Science. It is commonly used to demonstrate state-space search, constraints satisfaction and backtracking.
+
+**Working Principle:** <br>
+1. Start with an empty 8x8 chessboard
+2. Begin from the first row
+3. Try placing a queen in each column of the current row
+4. Check whether position is safe
+5. If the position is safe place the queen
+6. Move to the next row
+7. If no  safe position is available in the next row, remove the previously placed queen
+8. Try another position for that queen
+9. Continue until all 8 queens are successfully placed 
+
+**Algorithm:** <br>
+1. Start
+2. Create an empty 8x8 chessboard
+3. Try plaCING QUEENS from the first row
+4. For each column in the curent row: <br>
+Check whwther placing a queen is safe. <br>
+Check the column. <br>
+Check the upper-left diagonal. <br>
+Check the upper-right diagonal. <br>
+5. If the position is safe, place the queen.
+6. Recursively move to the next row.
+7. If all 8 rpws are successfully filled, display the board.
+8. If no safe position is available: <br>
+Remove the previously placed queen. <br>
+Go back to previous row. <br>
+Try another position. <br>
+9. Repeat until a solution is found.
+10. Stop
+
+<hr>
+
+
