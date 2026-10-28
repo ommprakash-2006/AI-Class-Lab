@@ -1,6 +1,5 @@
 # AI-Class-Lab
-ARTIFICIAL INTELLIGENCE - LABORATORY
-<br>
+### <b>ARTIFICIAL INTELLIGENCE - LABORATORY</b>
 This repository is for LAB purposes only. (COLLEGE work)
 
 <hr>
