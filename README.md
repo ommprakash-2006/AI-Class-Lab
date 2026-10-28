@@ -108,9 +108,10 @@ Each program is designed to help me:
 
 ## 📖 Theory Notes
 
-Refer to [THEORY.md](THEORY.md) for supporting theory and explanations.
+- [THEORY.md](THEORY.md) — Supporting theory and explanations.
+- [AI_Lab.ipynb](AI_Lab.ipynb) — AI lab programs in Jupyter Notebook format.
 
-<hr>
+
 
 ## 👨‍💻 Author
 
