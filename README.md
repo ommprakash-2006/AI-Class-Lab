@@ -79,7 +79,7 @@ h(n) is estimated cost
 
 <hr>
 
-## **5. Min-Max Algorithm**
+### **5. Min-Max Algorithm**
 
 **AIM:**
 To implement  Min-Max Algorithm using Python.
@@ -106,7 +106,7 @@ Min-Max is an AI search algorithm used in 2 player games that finds best move by
 
 <hr>
 
-# **7. 8-Queens Problem**
+### **7. 8-Queens Problem**
 
 **AIM:** <br>
 To implement 9-queens problem using Python using the backtracking technique and find a valid arrangement of 8 queens on an 8x8 chessboard such that no 2 queens attack each other.
