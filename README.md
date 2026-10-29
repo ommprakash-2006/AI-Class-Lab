@@ -15,9 +15,11 @@
 
 Welcome to **AI-Class-Lab**! 👋
 
-This repository contains Python implementations of Artificial Intelligence lab programs. It is created as part of my learning journey to understand AI concepts through practical coding.
+It contains Python implementations of Artificial Intelligence lab programs. It is created as part of my learning journey to understand AI concepts through practical coding.
 
 The programs focus on search algorithms, problem-solving techniques, game-playing algorithms, and classical AI problems. Each implementation aims to be simple, readable, and easy to understand for students and beginners.
+
+⚠️ <i>This repository is only for the LAB purpose **(COLLEGE work)** </i>
 
 ## 🎯 Objectives
 
