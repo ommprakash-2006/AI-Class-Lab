@@ -45,6 +45,11 @@ The programs focus on search algorithms, problem-solving techniques, game-playin
 
 *The table represents the planned program list; check the repository files for the currently available implementations.*
 
+## 📖 Theory Notes
+
+- [THEORY.md](THEORY.md) — Supporting theory and explanations.
+- [AI_Lab.ipynb](AI_Lab.ipynb) — AI lab programs (with Output) in Jupyter Notebook format.
+
 ## 🛠️ Technologies Used
 
 - **Programming Language:** Python
@@ -105,11 +110,6 @@ Each program is designed to help me:
 3. Implement the solution in Python.
 4. Test the program with sample inputs.
 5. Analyze the output and understand the logic.
-
-## 📖 Theory Notes
-
-- [THEORY.md](THEORY.md) — Supporting theory and explanations.
-- [AI_Lab.ipynb](AI_Lab.ipynb) — AI lab programs in Jupyter Notebook format.
 
 
 
